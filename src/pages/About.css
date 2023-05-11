@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'Slent';
+    src: url('/public/fonts/Alkatra-VariableFont_wght.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.style {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+  
+.box-left {
+  display: center;
+  height: calc(100vh -70px);
+  width: calc(100vw / 3);
+  position: sticky;
+  align-items: center;
+}
+
+.box-right {
+  display: center;
+  
+  height: calc(100vh -70px);
+  width: calc((100vw / 3)*2);
+  align-items: center;
+}
+
+.section-title {
+    padding-left: 0px;
+    font-family: 'Slent';
+    font-size: 30px;
+    text-align: calc(100vh);
+    z-index: 1;
+}
+  
+  .bio-text {
+    font-family: 'Slent';
+    font-size: 14px;
+    text-align: left;
+    position: calc(100vh); 
+    padding-bottom: 15px;
+    padding-top: 15px;
+    padding-right: 80px; 
+    z-index: 1;
+  }
+  
+
+  .about-picture{
+    width: 10%;
+    height: 10%;
+    padding: 0;
+    margin: 0;
+    background-size: cover;
+    
+}

@@ -7,32 +7,41 @@
   pointer-events: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
+/* Creates animation of an image spinning */
+/* @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+} */
+
+@font-face {
+  font-family: 'Tilt';
+  src: url('/public/fonts/TiltPrism-Regular-VariableFont_XROT\,YROT.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #e5dacb;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  font-family: 'Tilt', sans-serif;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(0, 0, 0);
 }
 
-.App-link {
-  color: #61dafb;
-}
+/* .App-link {
+  color: #8c8d8d;
+} */
 
-@keyframes App-logo-spin {
+/* @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
   to {
     transform: rotate(360deg);
   }
-}
+} */
