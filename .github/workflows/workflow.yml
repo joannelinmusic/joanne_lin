@@ -1,0 +1,30 @@
+name: Github Pages Deploy
+
+on: 
+  push:
+    branches:
+      - "master"
+
+
+
+jobs:
+  build: 
+    runs-on: ubnutu-latest
+
+    strategy:
+      matrix: 
+        node-version: [18.x]
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+
+      - name: Install and build
+        run: npm install && npm run build
+      
+      - name: Deploy
+        uses: joannelinmusic/github-pages-deploy-action@3.5.1
+        with: 
+          branch: gh-pages
+          folder: build
+          baseurl: /joanne_lin/
