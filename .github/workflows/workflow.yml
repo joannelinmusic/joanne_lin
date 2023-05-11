@@ -27,4 +27,4 @@ jobs:
         with: 
           branch: gh-pages
           folder: build
-          baseurl: /joanne_lin/
+          baseurl: /joanne_lin
