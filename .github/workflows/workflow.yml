@@ -26,5 +26,5 @@ jobs:
         uses: joannelinmusic/github-pages-deploy-action@3.5.1
         with: 
           branch: gh-pages
-          folder: build    
+          folder: build
           baseurl: /joanne_lin
