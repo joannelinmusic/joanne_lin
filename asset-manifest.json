@@ -1,20 +1,22 @@
 {
   "files": {
     "main.css": "/joanne_lin/static/css/main.5eaea2db.css",
-    "main.js": "/joanne_lin/static/js/main.d3d7d00b.js",
+    "main.js": "/joanne_lin/static/js/main.6ee3e8b4.js",
     "static/media/DSC_0067.png": "/joanne_lin/static/media/DSC_0067.be837b7895368a503468.png",
+    "static/media/DSC_0015.jpg": "/joanne_lin/static/media/DSC_0015.7ee029f43e8ea95b20c1.jpg",
     "static/media/DSC_0005.jpg": "/joanne_lin/static/media/DSC_0005.3c48dde914e6c0e55fb0.jpg",
     "static/media/DSC_0094.jpg": "/joanne_lin/static/media/DSC_0094.d91adb97600fe9cea4ed.jpg",
+    "static/media/P5090143.jpg": "/joanne_lin/static/media/P5090143.3113a7df25efe6e8562b.jpg",
     "static/media/TiltPrism-Regular-VariableFont_XROT,YROT.ttf": "/joanne_lin/static/media/TiltPrism-Regular-VariableFont_XROT,YROT.a39a32398249debc0671.ttf",
     "static/media/Alkatra-VariableFont_wght.ttf": "/joanne_lin/static/media/Alkatra-VariableFont_wght.f7d7f539621400f4b70b.ttf",
     "static/media/Violin.jpeg": "/joanne_lin/static/media/Violin.21f5c112a7bfcc34ba0e.jpeg",
     "static/media/Data.jpeg": "/joanne_lin/static/media/Data.e7a68a86012370889557.jpeg",
     "index.html": "/joanne_lin/index.html",
     "main.5eaea2db.css.map": "/joanne_lin/static/css/main.5eaea2db.css.map",
-    "main.d3d7d00b.js.map": "/joanne_lin/static/js/main.d3d7d00b.js.map"
+    "main.6ee3e8b4.js.map": "/joanne_lin/static/js/main.6ee3e8b4.js.map"
   },
   "entrypoints": [
     "static/css/main.5eaea2db.css",
-    "static/js/main.d3d7d00b.js"
+    "static/js/main.6ee3e8b4.js"
   ]
 }
