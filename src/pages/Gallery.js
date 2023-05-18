@@ -5,7 +5,7 @@ import photo3 from "../assets/DSC_0005.jpg";
 import photo4 from "../assets/DSC_0015.jpg";
 import photo5 from "../assets/P5090143.jpg";
 import photo6 from "../assets/P5090076.jpg";
-// import photo7 from "../assets/P5090096.jpg";
+import photo7 from "../assets/P5090096.jpg";
 // import photo8 from "../assets/P5090276.jpg";
 
 import "../pages/Gallery.css";
@@ -18,7 +18,7 @@ export default function Gallery() {
                     <img src={photo1} className="picture" alt="" />
                     <img src={photo3} className="picture" alt="" />
                     <img src={photo5} className="picture" alt="" />
-                    <img src={photo1} className="picture" alt="" />
+                    <img src={photo7} className="picture" alt="" />
                     
                 </div>
                 <div className="gallery-row-right">
