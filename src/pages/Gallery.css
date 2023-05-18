@@ -30,29 +30,39 @@
 } */
 
 
-.gallery-container {
+
+  
+  .gallery-container {
     display: flex;
     flex-direction: column;
     align-items: center;
     margin-top: 10px;
   }
-  
   .image-container {
     display: flex;
     justify-content: center;
     margin-bottom: 50px;
   }
   
-  .gallery-row-left,
+  .gallery-row-left{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 10%;
+  }
+
   .gallery-row-right {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-right: 10%;
+    
   }
   
   .picture {
     max-width: 100%;
     height: auto;
+    justify-content: center;
     /* margin-bottom: 20px; */
   }
   

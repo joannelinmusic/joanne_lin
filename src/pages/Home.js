@@ -4,7 +4,7 @@ import "../pages/Home.css"
 export default function Home() {
     return (
         <div>
-            <img src={headshot} className="picture" alt=""/>
+            <img src={headshot} className="home_picture" alt=""/>
         </div>
         
     )
