@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/joanne_lin/static/css/main.dddb2e0f.css",
-    "main.js": "/joanne_lin/static/js/main.2074cd0c.js",
+    "main.css": "/joanne_lin/static/css/main.c67e5e6f.css",
+    "main.js": "/joanne_lin/static/js/main.8677aec9.js",
     "static/media/DSC_0067.png": "/joanne_lin/static/media/DSC_0067.be837b7895368a503468.png",
     "static/media/DSC_0015.jpg": "/joanne_lin/static/media/DSC_0015.7ee029f43e8ea95b20c1.jpg",
     "static/media/DSC_0005.jpg": "/joanne_lin/static/media/DSC_0005.3c48dde914e6c0e55fb0.jpg",
@@ -15,11 +15,11 @@
     "static/media/Violin.jpeg": "/joanne_lin/static/media/Violin.21f5c112a7bfcc34ba0e.jpeg",
     "static/media/Data.jpeg": "/joanne_lin/static/media/Data.e7a68a86012370889557.jpeg",
     "index.html": "/joanne_lin/index.html",
-    "main.dddb2e0f.css.map": "/joanne_lin/static/css/main.dddb2e0f.css.map",
-    "main.2074cd0c.js.map": "/joanne_lin/static/js/main.2074cd0c.js.map"
+    "main.c67e5e6f.css.map": "/joanne_lin/static/css/main.c67e5e6f.css.map",
+    "main.8677aec9.js.map": "/joanne_lin/static/js/main.8677aec9.js.map"
   },
   "entrypoints": [
-    "static/css/main.dddb2e0f.css",
-    "static/js/main.2074cd0c.js"
+    "static/css/main.c67e5e6f.css",
+    "static/js/main.8677aec9.js"
   ]
 }
