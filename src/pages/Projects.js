@@ -1,13 +1,10 @@
 import React from "react";
 import Fullpage, {FullPageSections, FullpageSection, FullpageNavigation} from '@ap.cx/react-fullpage'
 import './Projects.css';
-import Navbar from '../components/Navbar';
-
 
 const Projects = () => {
     return (
         <Fullpage>
-            <Navbar style={{ zIndex: 1 }} />
             <FullpageNavigation />
             <FullPageSections>
                 <FullpageSection className = 'first_style'>

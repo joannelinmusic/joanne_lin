@@ -3,15 +3,12 @@ import Fullpage, {FullPageSections, FullpageSection, FullpageNavigation} from '@
 import './About.css';
 import Violin from '../assets/Violin.jpeg';
 import Data from '../assets/Data.jpeg';
-import Navbar from '../components/Navbar';
-import { Link } from "react-router-dom"
 
 
 const Projects = () => {
     return (
         
       <Fullpage>
-        <Navbar/>
         <FullpageNavigation />
         <FullPageSections>
             <FullpageSection className='style'>
@@ -27,7 +24,7 @@ const Projects = () => {
                 <div className="section-title">Data Scientist</div>
             </div>
             <div className="box-right">
-                <div className="bio-text">
+                <div className="bio-text-about">
                     Joanne is a violinist based in New York City. major media platforms and in news interviews such as Duowei News, The Epoch Times, and 
                     Broadcasting Corporation of China. Joanne’s performances are expanding throughout the US 
                     and Asia including venues of Carnegie Hall, the n news interviews such as Duowei News, The Epoch Times, and 
@@ -45,7 +42,7 @@ const Projects = () => {
             </div>
                 
             <div className="box-right">
-                <div className="bio-text">
+                <div className="bio-text-about">
                     Joanne is a violinist based in New York City. Her music has been featured and broadcasted 
                     on major media platforms and in news interviews such as Duowei News, The Epoch Times, and 
                     Broadcasting Corporation of China. Joanne’s performances are expanding throughout the US 
