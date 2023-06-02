@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/joanne_lin/static/css/main.0d3ee213.css",
+    "main.css": "/joanne_lin/static/css/main.2d308779.css",
     "main.js": "/joanne_lin/static/js/main.3b374e08.js",
     "static/media/DSC_0067.png": "/joanne_lin/static/media/DSC_0067.be837b7895368a503468.png",
     "static/media/DSC_0015.jpg": "/joanne_lin/static/media/DSC_0015.7ee029f43e8ea95b20c1.jpg",
@@ -15,11 +15,11 @@
     "static/media/Violin.jpeg": "/joanne_lin/static/media/Violin.21f5c112a7bfcc34ba0e.jpeg",
     "static/media/Data.jpeg": "/joanne_lin/static/media/Data.e7a68a86012370889557.jpeg",
     "index.html": "/joanne_lin/index.html",
-    "main.0d3ee213.css.map": "/joanne_lin/static/css/main.0d3ee213.css.map",
+    "main.2d308779.css.map": "/joanne_lin/static/css/main.2d308779.css.map",
     "main.3b374e08.js.map": "/joanne_lin/static/js/main.3b374e08.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d3ee213.css",
+    "static/css/main.2d308779.css",
     "static/js/main.3b374e08.js"
   ]
 }
